@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Links from "../components/Links";
-
+<meta name="viewport"content="width=device-width, initial-scale=1.0" /> 
 export default function Home() {
   return (
     <div
