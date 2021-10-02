@@ -7,7 +7,7 @@ export default function Home() {
     <div
       style={{
         background:
-          "url(https://www.lefthudson.com/wp-content/uploads/2019/11/red-black-background-fresh-free-hd-black-and-red-wallpapers-for-you-of-red-black-background.jpg)",
+          "url(https://img.freepik.com/free-vector/luxury-abstract-red-dark-background-template-design_144648-214.jpg?size=626&ext=jpg)",
       }}
       className="flex flex-col !bg-cover items-center justify-center min-h-screen py-2"
     >
