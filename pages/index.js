@@ -7,7 +7,7 @@ export default function Home() {
     <div
       style={{
         background:
-          "url(https://img.freepik.com/free-vector/luxury-abstract-red-dark-background-template-design_144648-214.jpg?size=626&ext=jpg)",
+          "url(https://wallpaperaccess.com/full/982832.jpg)",
       }}
       className="flex flex-col !bg-cover items-center justify-center min-h-screen py-2"
     >
