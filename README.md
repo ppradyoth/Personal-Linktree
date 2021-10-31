@@ -15,8 +15,7 @@ This linktree website is a reasonably smart way of combining all the contact inf
 * Structured design of the linktree with clickable links that can redirect to selected websites or corresponding pages contributes in the ease of access and contact.
 * It is easy to setup the Linktree and is effective.
 * The statistics of how many people are viewing the links are easily available.
-* Earning through affliate marketing would bebe much more effective with the utilization of linktree.
-
+* Earning through affliate marketing would be much more effective with the utilization of linktree.
 
 
 ## Preview
