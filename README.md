@@ -5,7 +5,6 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](
 It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
 
 
-
 ## About the website
 
 This linktree website is a reasonably smart way of combining all the contact information for public and private profiles.
